@@ -1,6 +1,4 @@
-# Persistent Visual Memory
-
-Code for "Persistent Visual Memory: Sustaining Perception for Deep Generation in LVLMs".
+# Persistent Visual Memory: Sustaining Perception for Deep Generation in LVLMs
 
 Persistent Visual Memory (PVM) is a lightweight parallel visual retrieval branch for autoregressive
 large vision-language models. It is designed to mitigate visual signal dilution: as generated text
