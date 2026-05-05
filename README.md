@@ -23,7 +23,7 @@ stream.
 
 ## Repository Status
 
-This repository is prepared as an anonymous research-code submission. It includes the model
+This is the official repository for Persistent Visual Memory (PVM). It includes the model
 implementation and training entry points, but does not include pretrained checkpoints, local dataset
 copies, or cluster-specific DeepSpeed configuration files.
 
@@ -145,7 +145,7 @@ For SFT:
 ```python
 model_path = "<path_to_pvm_qwen3_vl_checkpoint>"
 output_dir = "<path_to_sft_output>"
-run_name = "<anonymous_run_name>"
+run_name = "<run_name>"
 train_dataset = load_from_disk("<path_to_sft_dataset>")
 ```
 
